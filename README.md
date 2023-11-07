@@ -2,7 +2,7 @@
 
 `sssh` is a Bash script designed to streamline the process of using `ecs-exec` to execute commands in Amazon ECS Fargate containers. It provides an interactive experience for selecting ECS profiles, clusters, services, containers, and tasks to run shell commands or port forwarding.
 
-> This is an actively maintained fork of the original `sssh` project. Contributions and feedback are welcome!
+*This is an actively maintained fork of the original `sssh` project. Contributions and feedback are welcome!*
 
 ## Table of Contents
 
